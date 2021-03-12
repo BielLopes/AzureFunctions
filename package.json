@@ -1,0 +1,23 @@
+{
+  "name": "azurefunctions",
+  "version": "1.0.0",
+  "description": "### Study and practici",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BielLopes/AzureFunctions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BielLopes/AzureFunctions/issues"
+  },
+  "homepage": "https://github.com/BielLopes/AzureFunctions#readme"
+}
